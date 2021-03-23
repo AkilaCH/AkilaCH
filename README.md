@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkilaCH
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning React and angular
-- 💞️ I’m looking to collaborate on front enddevelopment
+- 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me :akiahapuarachchi218@gmail.com
 
 <!---
